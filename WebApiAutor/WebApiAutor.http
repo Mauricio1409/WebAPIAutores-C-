@@ -1,0 +1,6 @@
+@WebApiAutor_HostAddress = http://localhost:5277
+
+GET {{WebApiAutor_HostAddress}}/Autores/
+Accept: application/json
+
+###
